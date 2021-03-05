@@ -59,7 +59,7 @@ Jenkins is used by millions of users and thousands of companies.
 See [adopters](https://www.jenkins.io/project/adopters/) for the list of Jenkins adopters and their success stories.
 
 # License
-ELF is **licensed** under the **[MIT License]**.
+ELF is **licensed** under the **[GNU GPL General Public License 3.0]**.
 
 
 [ButlerImage]: https://jenkins.io/sites/default/files/jenkins_logo.png
