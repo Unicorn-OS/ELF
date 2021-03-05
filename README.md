@@ -4,14 +4,14 @@ Forked from Jenkins, the leading open-source automation server.
 Built with Java, it provides over 1,700 [plugins](https://plugins.jenkins.io/) to support automating virtually anything, 
 so that humans can spend their time doing things machines cannot.
 
-# What to Use Jenkins for and When to Use It
+# What to Use ELF for and When to Use It
 
-Use ELF to automate your development workflow, so you can focus on work that matters most. ELF is commonly used for:
+Use ELF to automate the installation of many packets in your system, making it easy to install a specific build on unique hardware through simplified scripting. With the ability to install the same system on different hardware, you can focus on work that matters most. ELF is commonly used for:
 
-- Building projects
+- Building an OS for unique hardware projects
 - Running tests to detect bugs and other issues as soon as they are introduced
 - Static code analysis
-- Deployment
+- Deployment on various systems
 
 Execute repetitive tasks, save time, and optimize your development process with ELF.
 
