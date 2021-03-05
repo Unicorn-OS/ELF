@@ -6,21 +6,21 @@ so that humans can spend their time doing things machines cannot.
 
 # What to Use Jenkins for and When to Use It
 
-Use Jenkins to automate your development workflow, so you can focus on work that matters most. Jenkins is commonly used for:
+Use ELF to automate your development workflow, so you can focus on work that matters most. ELF is commonly used for:
 
 - Building projects
 - Running tests to detect bugs and other issues as soon as they are introduced
 - Static code analysis
 - Deployment
 
-Execute repetitive tasks, save time, and optimize your development process with Jenkins.
+Execute repetitive tasks, save time, and optimize your development process with ELF.
 
 # Downloads
 
-The Jenkins project provides official distributions as WAR files, Docker images, native packages and installers for platforms including several Linux distributions and Windows.
+The ELF project provides official distributions as WAR files, Docker images, native packages and installers for platforms including several Linux distributions and Windows.
 See the [Downloads](https://www.jenkins.io/download) page for references.
 
-For all distributions Jenkins offers two release lines:
+For all distributions ELF offers two release lines:
 
 * [Weekly](https://www.jenkins.io/download/weekly/) -
   Frequent releases which include all new features, improvements, and bug fixes.
@@ -33,7 +33,7 @@ Latest releases:
 
 
 # Source
-Our latest and greatest source of Jenkins can be found on [GitHub]. Fork us!
+Our latest and greatest source of ELF's parent Jenkins can be found on [GitHub]. Fork along with us!
 
 # Contributing to Jenkins
 
@@ -59,7 +59,7 @@ Jenkins is used by millions of users and thousands of companies.
 See [adopters](https://www.jenkins.io/project/adopters/) for the list of Jenkins adopters and their success stories.
 
 # License
-Jenkins is **licensed** under the **[MIT License]**.
+ELF is **licensed** under the **[MIT License]**.
 
 
 [ButlerImage]: https://jenkins.io/sites/default/files/jenkins_logo.png
