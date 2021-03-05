@@ -1,13 +1,6 @@
-[![][ButlerImage]][website] 
-
 # About
-
-[![Jenkins Regular Release](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.jenkins.io%2Fchangelog%2Fbadge.json)](https://jenkins.io/changelog)
-[![Jenkins LTS Release](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.jenkins.io%2Fchangelog-stable%2Fbadge.json)](https://jenkins.io/changelog-stable)
-[![Docker Pulls](https://img.shields.io/docker/pulls/jenkins/jenkins.svg)](https://hub.docker.com/r/jenkins/jenkins/)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3538/badge)](https://bestpractices.coreinfrastructure.org/projects/3538)
-
-In a nutshell, Jenkins is the leading open-source automation server. 
+ELF clockwork automation system is the most advanced system installation tailor ai ever developed.
+Forked from Jenkins, the leading open-source automation server. 
 Built with Java, it provides over 1,700 [plugins](https://plugins.jenkins.io/) to support automating virtually anything, 
 so that humans can spend their time doing things machines cannot.
 
